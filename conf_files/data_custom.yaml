@@ -1,0 +1,9 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: /content/gdrive/MyDrive/DL_TUD/data/images/train # 70 percent of 3000 images
+val: /content/gdrive/MyDrive/DL_TUD/data/images/val  # some 550ish images
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'person', 'license' ]

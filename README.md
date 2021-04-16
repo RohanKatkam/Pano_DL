@@ -4,9 +4,9 @@
 
 This is a reproducibility project as a part of the Deep Learning Course (CS4240), TU Delft
 
-Link to our Blog: https://medium.com/@viviand0097/e23b9ca5b38d
+Link to our Blog: https://viviand0097.medium.com/removing-sensitive-information-from-panoramic-imagery-e23b9ca5b38d
 
-Due to NDA, we cannot share the images of the models
+Due to confidential nature of the project, we cannot share the images of the models
 
 By 
 Rohan Katkam
